@@ -1,0 +1,37 @@
+body{
+    background-color: rgb(253, 218, 224);
+    font-family: Arial;
+    text-align: center;
+    font: weight 800px;;
+}
+
+h1 {
+    color: white;
+    background-color:green;
+    font-weight:900;
+    text-align: center;
+    font-size: larger;
+
+}
+h2 {
+    color: white;
+    background-color:rgb(237, 47, 47);
+    text-align: center;
+}
+.tacos {
+    color:black;
+    background-color: rgb(237, 47, 47);
+    font-family: Arial;
+
+}
+.enchiladas {
+    color:black;
+    background-color: white;
+    font-family: Arial;
+}
+
+.flan {
+    color:black;
+    background-color: green;
+    font-family: Arial;
+}
